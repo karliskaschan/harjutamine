@@ -1,1 +1,2 @@
-Github on Ameerika firma, mis pakub veebimajutusteenust tarkkvaraarenduseks, kasutades Giti tarkvara. Seda kasutavad IT-professionaaalid, töörühmad ja ettevõtted. 
+Github on Ameerika firma, mis pakub veebimajutusteenust tarkkvaraarenduseks, kasutades Giti tarkvara. Seda kasutavad IT-professionaaalid, töörühmad ja ettevõtted.  Mina ise saan githubi kasutada näiteks projektide viki loomist, tüüpiliste turvariskide automaatselt avastamist koodist ja graafikuid ja muud stastikat iga projekti kohta.
+
